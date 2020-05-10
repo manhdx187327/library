@@ -1,0 +1,20 @@
+
+Mạnh:
+1, index.php (trang chủ)
+2, giỏ hàng
+3,bổ sung giao diện css cho các thành viên cho nhóm
+giao diện admin
+giao diện khách hàng
+dũng:
+1. Process_login,Process_logout,view_login,view_logout
+ 2.  đăng xuất đăng nhập khách hàng và admin 
+huy:
+1.thiết kế database
+2.thêm sách:insert,insertXuly
+  thêm loại sách:insert_loai,insert_loaixl
+  thêm admin
+3.usecase...
+nam:
+1.tất cả đầu sách
+2.quản lý sinh viên
+3.quản lý hóa đơn
