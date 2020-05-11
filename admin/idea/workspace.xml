@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58f186f3-ed13-45aa-8465-a02d3c4f8764" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nta" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TE7ikPUuq64ObZrZUyroTbCi08" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\xampp\htdocs\nta\admin\modules" />
+      <recent name="F:\xampp\htdocs\nta" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\xampp\htdocs\nta\admin\modules\img" />
+      <recent name="F:\xampp\htdocs\nta\admin\modules" />
+      <recent name="F:\xampp\htdocs\nta\admin" />
+      <recent name="F:\xampp\htdocs\nta\frontend\testt" />
+      <recent name="F:\xampp\htdocs\nta\frontend\modules" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58f186f3-ed13-45aa-8465-a02d3c4f8764" name="Default Changelist" comment="" />
+      <created>1573013529218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573013529218</updated>
+      <workItem from="1573013530469" duration="1266000" />
+      <workItem from="1573092015684" duration="5880000" />
+      <workItem from="1573181184480" duration="2081000" />
+      <workItem from="1573183861376" duration="5316000" />
+      <workItem from="1573298450130" duration="2841000" />
+      <workItem from="1573303560614" duration="1296000" />
+      <workItem from="1573524828158" duration="496000" />
+      <workItem from="1573525760298" duration="2351000" />
+      <workItem from="1573543351780" duration="3439000" />
+      <workItem from="1573559201252" duration="612000" />
+      <workItem from="1573615212111" duration="346000" />
+      <workItem from="1573617233890" duration="916000" />
+      <workItem from="1573721499323" duration="3768000" />
+      <workItem from="1573783755555" duration="10212000" />
+      <workItem from="1573903178080" duration="3379000" />
+      <workItem from="1573966058528" duration="1790000" />
+      <workItem from="1573995715308" duration="386000" />
+      <workItem from="1573996594746" duration="333000" />
+      <workItem from="1574065314988" duration="2893000" />
+      <workItem from="1574133951010" duration="3901000" />
+      <workItem from="1574217766072" duration="1041000" />
+      <workItem from="1574348015754" duration="3663000" />
+      <workItem from="1574365664914" duration="5988000" />
+      <workItem from="1574506619880" duration="4925000" />
+      <workItem from="1574608189558" duration="2977000" />
+      <workItem from="1574651981364" duration="1174000" />
+      <workItem from="1574666351209" duration="2443000" />
+      <workItem from="1574690474731" duration="1133000" />
+      <workItem from="1574739230167" duration="621000" />
+      <workItem from="1575535369709" duration="1604000" />
+      <workItem from="1575537081025" duration="335000" />
+      <workItem from="1579084092901" duration="579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
